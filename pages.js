@@ -561,7 +561,7 @@ export const pages = {
             <div style="text-align: center; margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
               <p style="font-weight: 600; color: var(--primary-navy); margin-bottom: 0.5rem;">Or reach us directly:</p>
               <p style="color: var(--slate);">
-                Phone: <a href="tel:404-452-5017" style="color: var(--accent-gold); font-weight: 600;">404-452-5017</a><br>
+                Phone: <a href="tel:404-585-8680" style="color: var(--accent-gold); font-weight: 600;">404-585-8680</a><br>
                 Email: <a href="mailto:sales@kimshomedevelope.com" style="color: var(--accent-gold); font-weight: 600;">sales@kimshomedevelope.com</a>
               </p>
               <p style="font-size: 0.875rem; color: var(--slate); margin-top: 1rem;">
@@ -1656,7 +1656,7 @@ export const pages = {
                   <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
                 </svg>
                 <h4>Phone</h4>
-                <p><a href="tel:404-452-5017" style="color: var(--accent-gold); font-weight: 600;">404-452-5017</a></p>
+                <p><a href="tel:404-585-8680" style="color: var(--accent-gold); font-weight: 600;">404-585-8680</a></p>
               </div>
               
               <div class="card">
