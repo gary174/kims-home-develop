@@ -1589,7 +1589,7 @@ export const pages = {
                 <h3 class="mb-lg">Timeline</h3>
                 <div class="form-group">
                   <label class="form-label">When are you looking to start? *</label>
-                  <select class="form-select" required>
+                  <select name="timeline" class="form-select" required>
                     <option value="">Select one</option>
                     <option value="0-3">0–3 months</option>
                     <option value="3-6">3–6 months</option>
